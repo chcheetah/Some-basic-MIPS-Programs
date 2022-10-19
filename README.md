@@ -3,9 +3,9 @@ This repository contains all the solutions to some basic problems, in the MIPS a
 
 Currently Solved:
 
--- Hello world program
--- Sum of 2 numbers - No input
--- Sum of 2 numbers - Take input
--- Sum of numbers upto a given range (i)
--- Number is either even or odd
+-- Hello world program \n
+-- Sum of 2 numbers - No input \n
+-- Sum of 2 numbers - Take input \n
+-- Sum of numbers upto a given range (i) \n
+-- Number is either even or odd \n
 
